@@ -1,5 +1,4 @@
 import pygame
-
 from nlc_dino_runner.utils.constants import RUNNING, DUCKING, JUMPING
 from pygame.sprite import Sprite
 
